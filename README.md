@@ -1,4 +1,4 @@
-#<u>Find My Number<u>
+<h1><u>Find My Number<u></h1>
 
 Given the following keyboard, find all 10 key sequences that can be keyed in given the following constraints:
 1. The initial keypress can be any key.
